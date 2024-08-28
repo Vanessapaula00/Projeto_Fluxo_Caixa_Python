@@ -6,7 +6,7 @@ import _sqlite3
 class CashFlowApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Sistema de Fluxo de Caixa Família Santa Catarina")
+        self.root.title("Sistema de Fluxo")
         self.root.geometry("1024x600")  # Tamanho da janela para desktop
 
         # Inicialização dos valores totais

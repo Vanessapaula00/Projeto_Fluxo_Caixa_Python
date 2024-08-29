@@ -2,7 +2,7 @@
 
 Este projeto é um sistema de fluxo de caixa desenvolvido em Python utilizando a biblioteca Tkinter para a criação da interface gráfica. O sistema permite o registro e visualização de entradas e saídas financeiras, facilitando o controle financeiro pessoal ou de pequenas empresas.
 
-#Funcionalidades#
+**Funcionalidades**
 Entrada de Dados:
 Permite ao usuário inserir a data, item, valor unitário, e valor total de uma entrada financeira.
 Os dados de entrada são exibidos em uma coluna específica, com texto verde para fácil identificação.
@@ -17,7 +17,7 @@ Interface Responsiva:
 
 Interface gráfica intuitiva e responsiva, projetada para fácil uso em desktops.
 
-#Tecnologias Utilizadas#
+**Tecnologias Utilizadas**
 Python: Linguagem de programação principal utilizada no desenvolvimento do projeto.
 Tkinter: Biblioteca padrão do Python para criação de interfaces gráficas.
 SQLite (opcional): Preparado para integração futura com um banco de dados SQLite para persistência de dados, ainda não implementado.

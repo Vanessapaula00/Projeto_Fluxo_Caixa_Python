@@ -23,3 +23,7 @@ Tkinter: Biblioteca padrão do Python para criação de interfaces gráficas.
 SQLite (opcional): Preparado para integração futura com um banco de dados SQLite para persistência de dados, ainda não implementado.
 
 Contribuições são bem-vindas!
+
+![image](https://github.com/user-attachments/assets/0a987bfa-3245-44fa-8779-f2dc81e9c8e6)
+
+
